@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/actually-additions.toml"
+hash = "cba943d0cdd071da84505dff0e901bdafc9733416194332cee8eb986ce934abb"
+metafile = true
+
+[[files]]
 file = "mods/applecore.toml"
 hash = "6b5300bd726b6fea57880571ad72ec7be0024564305f3313c5049385c3bdd467"
 metafile = true
@@ -116,6 +121,11 @@ hash = "8239fcc9487edacf660e8a72b2fb9b9a2757c77df232a0ff409e5a8d9dadcc77"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.toml"
+hash = "4c10c35a185d73f12fafcc494b0b8c081575bfc78d82466f90b00788f3491e4f"
+metafile = true
+
+[[files]]
 file = "mods/foamfix-optimization-mod.toml"
 hash = "0473430ad8d5f380cf514741a4231acbc2a6b73cd0226c9a275e2efe36c89f94"
 metafile = true
@@ -131,8 +141,28 @@ hash = "ec535d3258260e18d5bced9db44021bdca31f3b1c64af1a5516c3987c0a6cd1c"
 metafile = true
 
 [[files]]
+file = "mods/genetics-reborn.toml"
+hash = "35f585772b6ffbb45b879e4581286aa4ced039c0453470aed62c6750a38c851a"
+metafile = true
+
+[[files]]
+file = "mods/gunpowderlib.toml"
+hash = "2e7f078df8c7a86e0c3570774fc933928bd41435cc30127e103d4296460bf726"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.toml"
 hash = "dea07cb4d9537ebfff1e22bfb82395c3b2850fbb0a5394aee05b906f5afbe5e4"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.toml"
+hash = "9792756c5d76035a79ad49d5c4097ea4350efeacbe56401baaac2140587cc826"
+metafile = true
+
+[[files]]
+file = "mods/integration-foregoing.toml"
+hash = "22aeea489d4f863d011dd1603dd21addc03852e4ffda91d691bc997ffb767f02"
 metafile = true
 
 [[files]]
@@ -238,6 +268,16 @@ metafile = true
 [[files]]
 file = "mods/ruins-structure-spawning-system.toml"
 hash = "4bd8d816a52795f9053ad3786b59547ca611aab24d372f9ec1d6083943673133"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.toml"
+hash = "131c93b64f168057a684dbc6c953498f9837e83a585e5185451b9a1c942dcc9a"
+metafile = true
+
+[[files]]
+file = "mods/tesla-core-lib.toml"
+hash = "409f0661dbfc7ab38b36715daaa26cb0d7d31c7634715dfa4e077f201ef5d54f"
 metafile = true
 
 [[files]]
