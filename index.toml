@@ -71,6 +71,11 @@ hash = "7c7d4da458ab082669f11975bad5fda167877dbabf8775eef22a8e230424831a"
 metafile = true
 
 [[files]]
+file = "mods/brandons-core.toml"
+hash = "2d1d09f8f2b15b97c2434a5759f275099a1efd808b3dc1388c00eba069bbf535"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.toml"
 hash = "75f02a3259510376753cdb714e30430d82db0011e84c0b9b05deb5cb4d2ddead"
 metafile = true
@@ -108,6 +113,16 @@ metafile = true
 [[files]]
 file = "mods/curio.toml"
 hash = "4a5f0491c0aa1588354e8af736cde4ac7f8523b9a46db5b216f99bc030373811"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.toml"
+hash = "57ff8d1b91abeb5f6e57e905a31c28c12bbb05391ead15031c7d95e01b2a825c"
+metafile = true
+
+[[files]]
+file = "mods/draconicadditions.toml"
+hash = "31eaadb54e56407ce96621081dc91353ce756ffb8445a000339ac8e295e19ec3"
 metafile = true
 
 [[files]]
