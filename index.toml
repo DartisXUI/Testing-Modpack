@@ -11,6 +11,11 @@ hash = "1717e089fb5b41114e99afa8709b6e8415ebff1192a3fbd70dbee90c05429b21"
 metafile = true
 
 [[files]]
+file = "mods/armory-expansion.toml"
+hash = "25fb5b33d8c33a5ef34c7e9190d523445f34ac4134398092f1e3a8081e0201d1"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "4e444b7a69c2b68ae168caed1a4d345bfa96cfe8671c6206895698cd93c5167e"
 metafile = true
@@ -36,6 +41,11 @@ hash = "87a5570c7a9399f2f277530eb7fe7b13a3633dcd8c2821628ef8581554ec0af1"
 metafile = true
 
 [[files]]
+file = "mods/constructs-armory.toml"
+hash = "2a58eb247d4f9ff7de6bee2f81d072338fd0b96803294bf887696e81815e68eb"
+metafile = true
+
+[[files]]
 file = "mods/controlling.toml"
 hash = "9e95e85e1901f88818d6c18d82d68ea4342206979ad861f884299e241ad4b195"
 metafile = true
@@ -53,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/curio.toml"
 hash = "4a5f0491c0aa1588354e8af736cde4ac7f8523b9a46db5b216f99bc030373811"
+metafile = true
+
+[[files]]
+file = "mods/drawbridges.toml"
+hash = "2cf85ddc192066e25c3a2fa84fc5c9f9689c267b24e38374729e13ebd1873416"
 metafile = true
 
 [[files]]
@@ -121,6 +136,11 @@ hash = "750e15bc8a8092318669fda0b179892a1be2ac65dc37e888d6586543e31c5471"
 metafile = true
 
 [[files]]
+file = "mods/moar-tinkers.toml"
+hash = "1ba0b1be4650525f02f57547556ecf37a86c7c6872569ae61acba4aad241859d"
+metafile = true
+
+[[files]]
 file = "mods/mod-name-tooltip.toml"
 hash = "ada354d23031dc6f90da2e792efcacc7fbfb5d7e0be712e5085355c7f9c18a58"
 metafile = true
@@ -151,6 +171,11 @@ hash = "1409373923d2e27a5f5425049b093aba72000a6d743e335d379dc5c2551bc1c8"
 metafile = true
 
 [[files]]
+file = "mods/oreberries.toml"
+hash = "177183e4d42d80f91967a94dc8ab09ef484efb02e1675828f113d59d324920e7"
+metafile = true
+
+[[files]]
 file = "mods/prefab.toml"
 hash = "64e1f03ca2096472c0fd18cb1764a59cac22eccd2117a5643446d44edddcf5c7"
 metafile = true
@@ -168,6 +193,21 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.toml"
 hash = "439e3f7e6e7fa3160fd46739826258107fb9d465f32b658f6102aabc34a03b37"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.toml"
+hash = "114d598bc70613705e28c91683c19a0f81b054ba4a36b096a799e44fc2771374"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-jei.toml"
+hash = "957c78ca79cfd6b09816c6940f7c601957bcc096bb80404db25b90f838f6cea5"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-tool-leveling.toml"
+hash = "9829c12e43d03a32cdd6d00198854d86d148af34b4f629bd3ae8dfc4f581a565"
 metafile = true
 
 [[files]]
