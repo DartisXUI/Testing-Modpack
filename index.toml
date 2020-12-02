@@ -41,6 +41,26 @@ hash = "87a5570c7a9399f2f277530eb7fe7b13a3633dcd8c2821628ef8581554ec0af1"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.toml"
+hash = "7c7d4da458ab082669f11975bad5fda167877dbabf8775eef22a8e230424831a"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.toml"
+hash = "75f02a3259510376753cdb714e30430d82db0011e84c0b9b05deb5cb4d2ddead"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.toml"
+hash = "41c389de8c99e7861932cdf35ad32b68cbdce698904c8bc294622fac5c7ccaa4"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.toml"
+hash = "addeba42e92d45f278fa79b94f3b359b5f9ce69eee7438ef7480aa3764bda0e1"
+metafile = true
+
+[[files]]
 file = "mods/constructs-armory.toml"
 hash = "2a58eb247d4f9ff7de6bee2f81d072338fd0b96803294bf887696e81815e68eb"
 metafile = true
@@ -68,6 +88,26 @@ metafile = true
 [[files]]
 file = "mods/drawbridges.toml"
 hash = "2cf85ddc192066e25c3a2fa84fc5c9f9689c267b24e38374729e13ebd1873416"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-plus.toml"
+hash = "f1e43fb577ba10120291ac41de673f645274685d725594ff5da8c8a97dcf25ef"
+metafile = true
+
+[[files]]
+file = "mods/ender-io.toml"
+hash = "cd0e9ca089a42795cd4fd18a878d2072ff44f18ae7fa64576f293ac149226052"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage-1-8.toml"
+hash = "62a88b7e34ac364b52f892b8d7fafd2ab51c1ed138010f39dbf50e26bfafc272"
+metafile = true
+
+[[files]]
+file = "mods/endercore.toml"
+hash = "29fab396bfc16400541918c2afa8d504da54046639e6555d8f52dbd02de72923"
 metafile = true
 
 [[files]]
@@ -186,6 +226,16 @@ hash = "112d333f80221cc89842cd3c32419ac96f57b9601178c2738d5e5ed635210afb"
 metafile = true
 
 [[files]]
+file = "mods/ranged-pumps.toml"
+hash = "2a0679d59374566b512e9b1329a9d64e21ccd1621887a5f67b09905646a776b2"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.toml"
+hash = "2d46c70dfa56a3fcb4c789616b9da9240b89a2c5c2affdf75790f6a624bca726"
+metafile = true
+
+[[files]]
 file = "mods/ruins-structure-spawning-system.toml"
 hash = "4bd8d816a52795f9053ad3786b59547ca611aab24d372f9ec1d6083943673133"
 metafile = true
@@ -193,6 +243,31 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.toml"
 hash = "439e3f7e6e7fa3160fd46739826258107fb9d465f32b658f6102aabc34a03b37"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.toml"
+hash = "d43bea3e65cd2ac34bd918091846f16bafed4099c0fac95a023d32a33e547b64"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.toml"
+hash = "34a802e247e08ec1a37fea54e3e07322b12b7654852162e81e4578b94e8e47c2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.toml"
+hash = "b725577f37462da10dc185bcc14228d3b1e5de5ce06a852ebfefc8c507e82571"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.toml"
+hash = "d07bde4a8648d658ef25fff9d890ba67e0365718f08400897f15636ebb481123"
+metafile = true
+
+[[files]]
+file = "mods/thermal-tinkering.toml"
+hash = "a1d146a403f6ef65e20493d9cc8fcac688fd1df8389b7e1682916cdcc6b204a0"
 metafile = true
 
 [[files]]
