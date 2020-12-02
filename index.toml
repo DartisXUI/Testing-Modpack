@@ -6,6 +6,16 @@ hash = "cba943d0cdd071da84505dff0e901bdafc9733416194332cee8eb986ce934abb"
 metafile = true
 
 [[files]]
+file = "mods/ae2-stuff.toml"
+hash = "ba66a3b8e1de14476341eb6cfb9c74946556927b4ff8f4616709e8618cbdd3bb"
+metafile = true
+
+[[files]]
+file = "mods/ae2wtlib.toml"
+hash = "7680ac00486839cef6707308453e6adc271abb1aae448aa3b62f1b12c4988e3f"
+metafile = true
+
+[[files]]
 file = "mods/applecore.toml"
 hash = "6b5300bd726b6fea57880571ad72ec7be0024564305f3313c5049385c3bdd467"
 metafile = true
@@ -13,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.toml"
 hash = "1717e089fb5b41114e99afa8709b6e8415ebff1192a3fbd70dbee90c05429b21"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.toml"
+hash = "4294eab4a53211921fa5ed9599cbdd05e7532d99dd7d332bcfd819c13d484926"
 metafile = true
 
 [[files]]
@@ -33,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/baubles.toml"
 hash = "c753e5872ef229ff88ad5e1e0aeee78a8db2084017acee1bf9a45c4807037250"
+metafile = true
+
+[[files]]
+file = "mods/bdlib.toml"
+hash = "f27e8eb3b896f8771ce9a83c7ba5bde35590a4e9ac1f019b244b5d72a7f669f5"
 metafile = true
 
 [[files]]
@@ -191,6 +211,11 @@ hash = "e4a1b5fdab31e71ea9646a6379f2bb08857fa72fc3b5675665e40b54512e756a"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-energistics-jee.toml"
+hash = "958da46604aa6684011165a5f9ecda6a9d6a503853ed762bf783ff5d370ef40c"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.toml"
 hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
 metafile = true
@@ -246,6 +271,11 @@ hash = "177183e4d42d80f91967a94dc8ab09ef484efb02e1675828f113d59d324920e7"
 metafile = true
 
 [[files]]
+file = "mods/p455w0rds-library.toml"
+hash = "b9b65bf81850b6586eb09df098a8c61d786e30ebb1b9b25c2ec9548abb6df34c"
+metafile = true
+
+[[files]]
 file = "mods/prefab.toml"
 hash = "64e1f03ca2096472c0fd18cb1764a59cac22eccd2117a5643446d44edddcf5c7"
 metafile = true
@@ -273,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/shadowfacts-forgelin.toml"
 hash = "131c93b64f168057a684dbc6c953498f9837e83a585e5185451b9a1c942dcc9a"
+metafile = true
+
+[[files]]
+file = "mods/super-factory-manager.toml"
+hash = "f4bef5f36cf2a8ec31876ed6785580e0ea86cde4e3970f2ecdd65fe024d19471"
 metafile = true
 
 [[files]]
@@ -353,4 +388,9 @@ metafile = true
 [[files]]
 file = "mods/waystones.toml"
 hash = "c9a6cf19ac94d734c45b85fb48af142c19f60b7dd6d3bf90eacbedeb13a99f4a"
+metafile = true
+
+[[files]]
+file = "mods/wireless-crafting-terminal.toml"
+hash = "30c41ad809cc3fd695a2377ad9fdf7ee313bcc1350cb3b987a4abf0f845ba343"
 metafile = true
