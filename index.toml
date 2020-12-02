@@ -296,6 +296,11 @@ hash = "64e1f03ca2096472c0fd18cb1764a59cac22eccd2117a5643446d44edddcf5c7"
 metafile = true
 
 [[files]]
+file = "mods/project-intelligence.toml"
+hash = "9d117184cf2a6e9cc2bb5d613917b6d39c9e27f8cd80751f7966d41b8b128d9c"
+metafile = true
+
+[[files]]
 file = "mods/quark.toml"
 hash = "112d333f80221cc89842cd3c32419ac96f57b9601178c2738d5e5ed635210afb"
 metafile = true
