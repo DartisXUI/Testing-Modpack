@@ -24,6 +24,11 @@ hash = "7680ac00486839cef6707308453e6adc271abb1aae448aa3b62f1b12c4988e3f"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.toml"
+hash = "90988adcc0a460e62fd6b45dd1834b368d25ce60303976822166098102548aa8"
+metafile = true
+
+[[files]]
 file = "mods/applecore.toml"
 hash = "6b5300bd726b6fea57880571ad72ec7be0024564305f3313c5049385c3bdd467"
 metafile = true
@@ -81,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/brandons-core.toml"
 hash = "2d1d09f8f2b15b97c2434a5759f275099a1efd808b3dc1388c00eba069bbf535"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.toml"
+hash = "900bb218406480dc270fe0f42f1f0e66c52ae5a85d8934c404d10ce64e803354"
 metafile = true
 
 [[files]]
@@ -344,6 +354,11 @@ hash = "9d173ee00c9be20448e71d1ab57dca71aa5c213b677cbc8fe4effc76b3abf5ce"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-wands.toml"
+hash = "23a22e0a948baf4bbcfb3bba7ced21a2dafba79f16e464471ce57a37a2db9af9"
+metafile = true
+
+[[files]]
 file = "mods/notenoughids.toml"
 hash = "e5b17b3d0e03df592b8a593faf8005199d7004e071f159b9b249f8e64ba45514"
 metafile = true
@@ -386,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/p455w0rds-library.toml"
 hash = "b9b65bf81850b6586eb09df098a8c61d786e30ebb1b9b25c2ec9548abb6df34c"
+metafile = true
+
+[[files]]
+file = "mods/portal-gun.toml"
+hash = "759e7fa2845d63dc051ed1213696c7d91ddb0035235549f28fbf8600247ea6fb"
 metafile = true
 
 [[files]]
@@ -566,6 +586,11 @@ metafile = true
 [[files]]
 file = "mods/unidict.toml"
 hash = "5b592fbd7146f2b7c020e03352b02af76c44911d6630439cf211b5c7a5a3c56e"
+metafile = true
+
+[[files]]
+file = "mods/universal-remote.toml"
+hash = "8da0f5a52f4282f7eb1b0840b979f42b0562f9fd6b872e645858c4a1f08d136e"
 metafile = true
 
 [[files]]
