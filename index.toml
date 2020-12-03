@@ -189,6 +189,11 @@ hash = "0473430ad8d5f380cf514741a4231acbc2a6b73cd0226c9a275e2efe36c89f94"
 metafile = true
 
 [[files]]
+file = "mods/forge-multipart-cbe.toml"
+hash = "43f0e754ab26b5434510719dcf9ace01eef1b54df72efc54d962861754261eac"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library.toml"
 hash = "016bc703be18098ed8b1f4ff840f3aa4b97154a2bcbae48ca53d3bc28e2f588a"
 metafile = true
@@ -314,6 +319,11 @@ hash = "1eaeff3d90d89503e67c9a5f603f18be900e17dc070045bbc2658730b7cab752"
 metafile = true
 
 [[files]]
+file = "mods/mrtjpcore.toml"
+hash = "a0058c1cb198a31f452ad133bfa696274b52a42c943ed2b799c6d42bc4b6b23e"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agradditions.toml"
 hash = "343adb4aea952ad1ab60edddf6d8dbcfc8a7ad271a844ec5b37b819b74b116f1"
 metafile = true
@@ -386,6 +396,36 @@ metafile = true
 [[files]]
 file = "mods/project-intelligence.toml"
 hash = "9d117184cf2a6e9cc2bb5d613917b6d39c9e27f8cd80751f7966d41b8b128d9c"
+metafile = true
+
+[[files]]
+file = "mods/project-red-base.toml"
+hash = "6f62860d0805063a487015c3a8441056ce986fe39798bdcd7548b750ed2d4c9d"
+metafile = true
+
+[[files]]
+file = "mods/project-red-compat.toml"
+hash = "23f9e0c847741d47128873b4ba78b04e9d92626cc652ea3d9836449672d8d7ac"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.toml"
+hash = "d9c9a99e59c2968444ef300e88374e2ab7ec3e4a8830edfc38ae9f13c964a6fe"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.toml"
+hash = "270d4aa3162929d125979f2c192c4f03753a1a54bcdbe7476b1c52dfa52ed845"
+metafile = true
+
+[[files]]
+file = "mods/project-red-lighting.toml"
+hash = "11bd667508c6a6b8a059542c882cb5a537f451f5500d7380c382286b9138a92d"
+metafile = true
+
+[[files]]
+file = "mods/project-red-mechanical.toml"
+hash = "dc1529d946e6cfe4ad9868d0dac47e6fe124cc914aa11d772f77a04e6c840fcd"
 metafile = true
 
 [[files]]
