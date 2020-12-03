@@ -14,6 +14,11 @@ hash = "cba943d0cdd071da84505dff0e901bdafc9733416194332cee8eb986ce934abb"
 metafile = true
 
 [[files]]
+file = "mods/additional-lights.toml"
+hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
+metafile = true
+
+[[files]]
 file = "mods/ae2-stuff.toml"
 hash = "ba66a3b8e1de14476341eb6cfb9c74946556927b4ff8f4616709e8618cbdd3bb"
 metafile = true
@@ -299,6 +304,11 @@ hash = "e5914feb065f72f027e1fefac0d8fbd184f23eb3e6d6d0260cf28e76ab5d76e8"
 metafile = true
 
 [[files]]
+file = "mods/malisiscore.toml"
+hash = "e947f57c112cb2a3af7edca6250c8d8d6719bb049473d2731d1bd258b73a1694"
+metafile = true
+
+[[files]]
 file = "mods/mantle.toml"
 hash = "750e15bc8a8092318669fda0b179892a1be2ac65dc37e888d6586543e31c5471"
 metafile = true
@@ -474,6 +484,11 @@ hash = "2d46c70dfa56a3fcb4c789616b9da9240b89a2c5c2affdf75790f6a624bca726"
 metafile = true
 
 [[files]]
+file = "mods/redstone-paste.toml"
+hash = "19b59fdd37fe933080056be79189179957bb59929c5f67900064142e3c894328"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-addons.toml"
 hash = "e653638517d91da9b99aebda52999ef2e5db5c6e06de0a1b9b64babdbedf3296"
 metafile = true
@@ -504,6 +519,11 @@ hash = "2517b33c589043254f51757414654bfbc67c5a765c04ad02a757973953419bf1"
 metafile = true
 
 [[files]]
+file = "mods/secretroomsmod.toml"
+hash = "7ccfb0cd3188d1033d794f18886b2d743022fd3733076769d40a2cab40f77216"
+metafile = true
+
+[[files]]
 file = "mods/shadowfacts-forgelin.toml"
 hash = "131c93b64f168057a684dbc6c953498f9837e83a585e5185451b9a1c942dcc9a"
 metafile = true
@@ -511,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/simple-rpg.toml"
 hash = "b1e24d97ccbad657a899609ccea6ae5c6b017bf0a10ca4b3dc8eeee45b045bc0"
+metafile = true
+
+[[files]]
+file = "mods/stargate-network.toml"
+hash = "0efef065ca2dbae6ecab5d82d590c8b166f7fe3d1921742df2a25826a835ead2"
 metafile = true
 
 [[files]]
