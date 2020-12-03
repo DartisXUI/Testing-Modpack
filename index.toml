@@ -204,6 +204,11 @@ hash = "29fab396bfc16400541918c2afa8d504da54046639e6555d8f52dbd02de72923"
 metafile = true
 
 [[files]]
+file = "mods/engineers-workshop-reborn.toml"
+hash = "5bdc0e714fd18f13652105f78185122ba5567bb5b6dd23b136c78a80e9034464"
+metafile = true
+
+[[files]]
 file = "mods/extra-utilities.toml"
 hash = "e4e97ef5366c14588c3793c5a61b67250a9a3260c4032f4415e53090de5cf17d"
 metafile = true
