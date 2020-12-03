@@ -3,7 +3,7 @@ name = "Testing-Modpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ea26829d3f591bf678a83ca6032df1d4e0ee6dc4218921494afdc2a62c4f75fc"
+hash = "c5f958c6f73e6a0ec62df09af0afda3922d03e212292fd272b7119d9cc1de92b"
 
 [versions]
 forge = "14.23.5.2854"

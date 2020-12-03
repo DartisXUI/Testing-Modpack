@@ -91,6 +91,11 @@ hash = "addeba42e92d45f278fa79b94f3b359b5f9ce69eee7438ef7480aa3764bda0e1"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.toml"
+hash = "35b3ec5d512db2cd12af6335203cd318bb78a87ffb7f5d346e8f10dba683e9ca"
+metafile = true
+
+[[files]]
 file = "mods/constructs-armory.toml"
 hash = "2a58eb247d4f9ff7de6bee2f81d072338fd0b96803294bf887696e81815e68eb"
 metafile = true
@@ -151,6 +156,11 @@ hash = "29fab396bfc16400541918c2afa8d504da54046639e6555d8f52dbd02de72923"
 metafile = true
 
 [[files]]
+file = "mods/extra-utilities.toml"
+hash = "e4e97ef5366c14588c3793c5a61b67250a9a3260c4032f4415e53090de5cf17d"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.toml"
 hash = "8239fcc9487edacf660e8a72b2fb9b9a2757c77df232a0ff409e5a8d9dadcc77"
 metafile = true
@@ -188,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.toml"
 hash = "dea07cb4d9537ebfff1e22bfb82395c3b2850fbb0a5394aee05b906f5afbe5e4"
+metafile = true
+
+[[files]]
+file = "mods/industrial-craft.toml"
+hash = "2a0c6f035eebffa92d85d338194fd2c79034127e1254835eebe00d902dbfd5d4"
 metafile = true
 
 [[files]]
@@ -258,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/more-overlays.toml"
 hash = "7f916424670df861b8e52c219d2b6d7709121561400529fb5586804bb8156006"
+metafile = true
+
+[[files]]
+file = "mods/moving-elevators.toml"
+hash = "2352012da01587195f41b6ea0edcfd070afb3b05f4a62615399f522b3f4502b0"
 metafile = true
 
 [[files]]
@@ -413,4 +433,9 @@ metafile = true
 [[files]]
 file = "mods/wireless-crafting-terminal.toml"
 hash = "30c41ad809cc3fd695a2377ad9fdf7ee313bcc1350cb3b987a4abf0f845ba343"
+metafile = true
+
+[[files]]
+file = "mods/woot.toml"
+hash = "b05021042073f41c5772eaf3531eef98ba52bc31d9756cc8fafdbe3e384b76e6"
 metafile = true
