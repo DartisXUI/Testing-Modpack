@@ -9,6 +9,11 @@ file = "config/quark.cfg"
 hash = "d83cf31cc007caeef754a9d85b582cbe9879f6f6933a5a585919597d53cf3696"
 
 [[files]]
+file = "mods/absent-by-design.toml"
+hash = "193d6adbc670f1955f47b34ef43e7c234994d12955a2b9999029b47b35475b5a"
+metafile = true
+
+[[files]]
 file = "mods/actually-additions.toml"
 hash = "cba943d0cdd071da84505dff0e901bdafc9733416194332cee8eb986ce934abb"
 metafile = true
@@ -79,6 +84,11 @@ hash = "c998bc50b834b145fb64944b88d5b406c73b778462ac4cb91d569bcaaa37ccba"
 metafile = true
 
 [[files]]
+file = "mods/bibliocraft.toml"
+hash = "5092b8bc67e08f81248f0aeffdf422a5aca420bc40d520ce77d83d3e9acc5de4"
+metafile = true
+
+[[files]]
 file = "mods/birds-foods.toml"
 hash = "87a5570c7a9399f2f277530eb7fe7b13a3633dcd8c2821628ef8581554ec0af1"
 metafile = true
@@ -96,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.toml"
 hash = "900bb218406480dc270fe0f42f1f0e66c52ae5a85d8934c404d10ce64e803354"
+metafile = true
+
+[[files]]
+file = "mods/chisel.toml"
+hash = "52435fe963476b68456801103ac73a53d31de8af03df7d3c1fc069c88dda9627"
 metafile = true
 
 [[files]]
@@ -136,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.toml"
 hash = "ec00be4088e5f81977c98458ab2f216f7f8699e969d3a9248cb351030840e5c6"
+metafile = true
+
+[[files]]
+file = "mods/ctm.toml"
+hash = "103696c67e5b9720d25ea953b8d3abc25c12db84da61a6e9b7d59232dfed1697"
 metafile = true
 
 [[files]]
