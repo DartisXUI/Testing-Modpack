@@ -154,6 +154,11 @@ hash = "ec00be4088e5f81977c98458ab2f216f7f8699e969d3a9248cb351030840e5c6"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.toml"
+hash = "bd992be23d83c10750367f810540bc7cf19c2a2fb3665c93fac1deb7a7bed7f4"
+metafile = true
+
+[[files]]
 file = "mods/ctm.toml"
 hash = "103696c67e5b9720d25ea953b8d3abc25c12db84da61a6e9b7d59232dfed1697"
 metafile = true
@@ -321,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/keeping-inventory.toml"
 hash = "2a1e6a4830da4149b6f4e4eb72e9666096265a9de666829dad59b51b2bcf4795"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.toml"
+hash = "95b57f943838f31a9a9c550d2c27c20803ea6d732590025e36688c19c64a94ad"
 metafile = true
 
 [[files]]
