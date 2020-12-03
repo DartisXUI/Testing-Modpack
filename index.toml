@@ -261,6 +261,11 @@ hash = "750e15bc8a8092318669fda0b179892a1be2ac65dc37e888d6586543e31c5471"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.toml"
+hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
+metafile = true
+
+[[files]]
 file = "mods/moar-tinkers.toml"
 hash = "1ba0b1be4650525f02f57547556ecf37a86c7c6872569ae61acba4aad241859d"
 metafile = true
@@ -373,6 +378,16 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.toml"
 hash = "8222afd78b5c0aed8fd390b8aa4464e444615adaa3fcc163a6592a8660480883"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.toml"
+hash = "d2b98a8bba2dc7d28805ba0785f2f7270a9a03d3c518b14856becc4dba7375b1"
+metafile = true
+
+[[files]]
+file = "mods/rftools.toml"
+hash = "14f323e28af2f71bd00eaaafa43d2856e7e33080402b255920af79319274ab27"
 metafile = true
 
 [[files]]
