@@ -1,0 +1,14 @@
+name = "ObjectPriorities"
+filename = "ObjectPriorities-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2663/223/ObjectPriorities-1.1.2.jar"
+hash-format = "murmur2"
+hash = "783682814"
+
+[update]
+[update.curseforge]
+file-id = 2663223
+project-id = 308227
+release-channel = "beta"

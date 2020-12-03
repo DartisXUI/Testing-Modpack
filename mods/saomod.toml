@@ -1,0 +1,14 @@
+name = "SAOMod"
+filename = "SAO_Mod-0.7c.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2663/219/SAO_Mod-0.7c.jar"
+hash-format = "murmur2"
+hash = "2906755158"
+
+[update]
+[update.curseforge]
+file-id = 2663219
+project-id = 307830
+release-channel = "beta"

@@ -196,6 +196,16 @@ hash = "2e7f078df8c7a86e0c3570774fc933928bd41435cc30127e103d4296460bf726"
 metafile = true
 
 [[files]]
+file = "mods/heroesexpansion.toml"
+hash = "d6687790e4c3768893cfbd88736531ec03a65b619eaa8967461454c0d83c7abd"
+metafile = true
+
+[[files]]
+file = "mods/hunting-dimension.toml"
+hash = "53a3f6f48bc74f9557a021514f8f852d888c6e50db52448b66643b8d50485cde"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.toml"
 hash = "dea07cb4d9537ebfff1e22bfb82395c3b2850fbb0a5394aee05b906f5afbe5e4"
 metafile = true
@@ -256,6 +266,11 @@ hash = "2a1e6a4830da4149b6f4e4eb72e9666096265a9de666829dad59b51b2bcf4795"
 metafile = true
 
 [[files]]
+file = "mods/lucraft-core.toml"
+hash = "e5914feb065f72f027e1fefac0d8fbd184f23eb3e6d6d0260cf28e76ab5d76e8"
+metafile = true
+
+[[files]]
 file = "mods/mantle.toml"
 hash = "750e15bc8a8092318669fda0b179892a1be2ac65dc37e888d6586543e31c5471"
 metafile = true
@@ -298,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughids.toml"
 hash = "e5b17b3d0e03df592b8a593faf8005199d7004e071f159b9b249f8e64ba45514"
+metafile = true
+
+[[files]]
+file = "mods/objectpriorities.toml"
+hash = "9cc9ff21bee31fa223b0bb355d3469b374c20caaa3b837322c4bcd1ad3f29be8"
 metafile = true
 
 [[files]]
@@ -396,8 +416,18 @@ hash = "4bd8d816a52795f9053ad3786b59547ca611aab24d372f9ec1d6083943673133"
 metafile = true
 
 [[files]]
+file = "mods/saomod.toml"
+hash = "2517b33c589043254f51757414654bfbc67c5a765c04ad02a757973953419bf1"
+metafile = true
+
+[[files]]
 file = "mods/shadowfacts-forgelin.toml"
 hash = "131c93b64f168057a684dbc6c953498f9837e83a585e5185451b9a1c942dcc9a"
+metafile = true
+
+[[files]]
+file = "mods/simple-rpg.toml"
+hash = "b1e24d97ccbad657a899609ccea6ae5c6b017bf0a10ca4b3dc8eeee45b045bc0"
 metafile = true
 
 [[files]]
