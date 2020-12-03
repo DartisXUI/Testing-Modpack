@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/natura.cfg"
+hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
+
+[[files]]
+file = "config/quark.cfg"
+hash = "d83cf31cc007caeef754a9d85b582cbe9879f6f6933a5a585919597d53cf3696"
+
+[[files]]
 file = "mods/actually-additions.toml"
 hash = "cba943d0cdd071da84505dff0e901bdafc9733416194332cee8eb986ce934abb"
 metafile = true
