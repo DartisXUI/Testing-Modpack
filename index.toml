@@ -116,6 +116,11 @@ hash = "ec00be4088e5f81977c98458ab2f216f7f8699e969d3a9248cb351030840e5c6"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.toml"
+hash = "2e88ef2da54b7607e1bacd21360ea45e5608d1cdc55367518743c3245d6fe083"
+metafile = true
+
+[[files]]
 file = "mods/curio.toml"
 hash = "4a5f0491c0aa1588354e8af736cde4ac7f8523b9a46db5b216f99bc030373811"
 metafile = true
@@ -298,6 +303,16 @@ metafile = true
 [[files]]
 file = "mods/moving-elevators.toml"
 hash = "1eaeff3d90d89503e67c9a5f603f18be900e17dc070045bbc2658730b7cab752"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.toml"
+hash = "343adb4aea952ad1ab60edddf6d8dbcfc8a7ad271a844ec5b37b819b74b116f1"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.toml"
+hash = "9b44cf7f65fa3caf7a7760e8736f2b560cccf36593cd0f46f5e00d040164aaa0"
 metafile = true
 
 [[files]]
