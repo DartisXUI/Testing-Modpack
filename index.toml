@@ -351,8 +351,28 @@ hash = "2a0679d59374566b512e9b1329a9d64e21ccd1621887a5f67b09905646a776b2"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.toml"
+hash = "c7008ce33ade755dbb24766fd4fe3e8ae87b4a2613f070193673fab884277b2f"
+metafile = true
+
+[[files]]
+file = "mods/rebornstorage.toml"
+hash = "671989feb1f13f73765307ad19e06029b76f14b351af33fd21ca446740ffa853"
+metafile = true
+
+[[files]]
 file = "mods/redstone-flux.toml"
 hash = "2d46c70dfa56a3fcb4c789616b9da9240b89a2c5c2affdf75790f6a624bca726"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.toml"
+hash = "e653638517d91da9b99aebda52999ef2e5db5c6e06de0a1b9b64babdbedf3296"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.toml"
+hash = "8222afd78b5c0aed8fd390b8aa4464e444615adaa3fcc163a6592a8660480883"
 metafile = true
 
 [[files]]
