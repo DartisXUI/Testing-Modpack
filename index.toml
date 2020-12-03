@@ -276,6 +276,11 @@ hash = "7f916424670df861b8e52c219d2b6d7709121561400529fb5586804bb8156006"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.toml"
+hash = "2352012da01587195f41b6ea0edcfd070afb3b05f4a62615399f522b3f4502b0"
+metafile = true
+
+[[files]]
 file = "mods/natura.toml"
 hash = "8d28e00965fc4d93759c552d6c261108ea8f38dd5c18a0cc766465c9439c1030"
 metafile = true
@@ -428,4 +433,9 @@ metafile = true
 [[files]]
 file = "mods/wireless-crafting-terminal.toml"
 hash = "30c41ad809cc3fd695a2377ad9fdf7ee313bcc1350cb3b987a4abf0f845ba343"
+metafile = true
+
+[[files]]
+file = "mods/woot.toml"
+hash = "b05021042073f41c5772eaf3531eef98ba52bc31d9756cc8fafdbe3e384b76e6"
 metafile = true
