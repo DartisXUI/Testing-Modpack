@@ -296,6 +296,26 @@ hash = "e5b17b3d0e03df592b8a593faf8005199d7004e071f159b9b249f8e64ba45514"
 metafile = true
 
 [[files]]
+file = "mods/openblocks.toml"
+hash = "77a004aa37ac112119bf97804477a173d3bd0157b69caf1df16f48a057b8993a"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.toml"
+hash = "851c192825d06e355cc870b6cf643910b4c34dd7e248a7f844f465d361609f04"
+metafile = true
+
+[[files]]
+file = "mods/openmodslib.toml"
+hash = "1cea2fe01d2770ea051304af8de0c477eebdb1abc46fa6b2bd54fd45413a7ae9"
+metafile = true
+
+[[files]]
+file = "mods/openscreens.toml"
+hash = "bb15ca86dd7e29f2506d4a368badc2303add9d9140657ff3658452deb336ce24"
+metafile = true
+
+[[files]]
 file = "mods/ore-core.toml"
 hash = "1409373923d2e27a5f5425049b093aba72000a6d743e335d379dc5c2551bc1c8"
 metafile = true
